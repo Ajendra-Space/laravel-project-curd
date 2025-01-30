@@ -1,6 +1,6 @@
 How can use this simple CURD laravel code, simple follow this steps
 
-1. Download sql file add your db name check .env file also
+1. Download laravel_crud.sql file add your db name check .env file also
 2. my case my db name  -> laravel_crud
 3. Now you add sql file in laravel_crud DB
 4. First All files download run this cmd -> php artisan serve
